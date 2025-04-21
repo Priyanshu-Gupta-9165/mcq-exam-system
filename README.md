@@ -9,46 +9,28 @@ A comprehensive Multiple Choice Question (MCQ) examination system built with PHP
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-orange.svg)
 
-## ✨ Features
+## ✨ Key Features
 
-### 👨‍🏫 Admin Features
-- 📝 Create, edit, and delete exams
-- ❓ Add, edit, and delete questions
-- ⏱️ Set exam duration and passing score
-- 📊 View all student results
-- 📈 Monitor exam activity history
-- 👥 Manage student accounts
+### 👨‍🏫 For Administrators
+- **Dashboard Overview**: Complete view of system statistics and activities
+- **Exam Management**: Create, edit, and delete exams with ease
+- **Question Bank**: Add multiple-choice questions with options
+- **Result Analysis**: View detailed performance reports
+- **User Management**: Monitor and manage student accounts
 
-### 👨‍🎓 Student Features
-- 📋 Take available exams
-- ✅ View exam results with detailed feedback
-- 📚 Check exam history
-- 🎯 View passing/failing status
-- 📈 Track progress over time
+### 👨‍🎓 For Students
+- **User-Friendly Interface**: Easy-to-navigate dashboard
+- **Exam Taking**: Smooth and intuitive exam interface
+- **Instant Results**: Get scores immediately after completion
+- **Progress Tracking**: View performance history and improvements
+- **Secure Environment**: Safe and monitored exam experience
 
-## 📸 Screenshots
-
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
-*Admin dashboard showing exam management and statistics*
-
-### Exam Creation
-![Create Exam](screenshots/create-exam.png)
-*Interface for creating new exams with questions*
-
-### Student Dashboard
-![Student Dashboard](screenshots/student-dashboard.png)
-*Student view showing available exams and results*
-
-### Taking Exam
-![Take Exam](screenshots/take-exam.png)
-*Interface for students taking an exam*
-
-### Results View
-![Results](screenshots/results.png)
-*Detailed view of exam results and performance*
-
-> **Note:** Screenshots are for demonstration purposes. Actual interface may vary based on your configuration.
+### 🛠️ Technical Features
+- **Responsive Design**: Works on all devices
+- **Modern UI**: Bootstrap 5 based interface
+- **Secure Authentication**: Protected login system
+- **Database Management**: Efficient MySQL integration
+- **Activity Logging**: Comprehensive action tracking
 
 ## 🛠️ System Requirements
 
