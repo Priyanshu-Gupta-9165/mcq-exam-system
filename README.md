@@ -192,9 +192,6 @@ Priyanshu Gupta
 - 🎯 Font Awesome for icons
 - 🔧 XAMPP for the development environment
 
-## 💬 Support
-
-For support, email [your-email@example.com] or create an issue in the GitHub repository.
 
 ## ❓ FAQ
 
@@ -227,8 +224,7 @@ A: Scores are calculated as (correct answers / total questions) * 100.
 
 ## 📞 Contact
 
-Priyanshu Gupta - [@Priyanshu-Gupta-9165](https://github.com/Priyanshu-Gupta-9165) - email@example.com
-
+Priyanshu Gupta - [@Priyanshu-Gupta-9165](https://github.com/Priyanshu-Gupta-9165) 
 Project Link: [https://github.com/Priyanshu-Gupta-9165/mcq-exam-system](https://github.com/Priyanshu-Gupta-9165/mcq-exam-system)
 
 ---
